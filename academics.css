@@ -1,0 +1,39 @@
+body {
+    background-color: #fdfdbb;
+  }
+div
+{
+  margin : 20px
+}
+
+  a {
+    color: #ff0000;
+    text-decoration : none
+  }
+table {
+  border-collapse: collapse;
+}
+
+th { 
+  background-color: #259e3f;
+  border-color: #000000;
+  border-collapse: collapse;
+  border-style: ridge;
+  padding : 5px;
+  margin : 5px
+}
+td { 
+  background-color: #000000;
+  color:#ffffff;
+  text-align: right;
+  padding : 5px  ;
+  margin : 5px
+}
+
+.footer
+{
+ display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: 400px; 
+}
